@@ -1,0 +1,20 @@
+{
+    "apps": [
+        {
+        "process": "steam.exe",
+        "name": "Steam"
+        },
+        {
+        "process": "chrome.exe",
+        "name": "Chrome"
+        },
+        {
+        "process": "notepad.exe",
+        "name": "Notepad"
+        },
+        {
+        "process": "calc.exe",
+        "name": "Calculator"
+        }
+    ]
+}
